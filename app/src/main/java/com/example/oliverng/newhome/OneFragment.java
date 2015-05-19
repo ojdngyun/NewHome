@@ -36,7 +36,7 @@ public class OneFragment extends Fragment {
 
         return rootView;
     }
-
+//git test
 
     @Override
     public void onResume() {

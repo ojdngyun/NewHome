@@ -61,29 +61,29 @@ public class Brand {
         String background = getBackground();
 
         if(background.equals("aa")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.aa;
         }else if(background.equals("bb")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.bb;
         }else if(background.equals("cc")) {
-            return R.mipmap.ic_launcher;
+            return R.mipmap.cc;
         }else if(background.equals("dd")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.dd;
         }else if(background.equals("ee")) {
-            return R.mipmap.ic_launcher;
+            return R.mipmap.ee;
         }else if(background.equals("ff")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.ff;
         }else if(background.equals("gg")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.gg;
         }else if(background.equals("hh")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.hh;
         }else if(background.equals("ii")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.ii;
         }else if(background.equals("jj")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.jj;
         }else if(background.equals("kk")){
-            return R.mipmap.ic_launcher;
+            return R.mipmap.kk;
         }else{
-            return R.mipmap.ic_launcher;
+            return R.mipmap.aa;
         }
     }
 
